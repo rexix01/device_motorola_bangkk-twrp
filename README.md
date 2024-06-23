@@ -30,9 +30,9 @@ From user 14 U1TC34.22-64-6 release-keys
 - Mouse through USB OTG
 - Flashing zips
 - MTP && USB Mode Storage
+- Qualcomm Decryption
 
 ### What ISN'T working!? D:
-- Decryption
 - Touch on custom roms (it works fine in stock rom)
 
 ### See Wiki for build this source
